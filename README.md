@@ -1,2 +1,2 @@
-# CreateNPC
+# ChatCreator
 ©latacko
