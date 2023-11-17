@@ -1,2 +1,0 @@
-# Chat Creator
-©latacko
